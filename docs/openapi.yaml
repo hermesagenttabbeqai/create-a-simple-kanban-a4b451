@@ -1,0 +1,9 @@
+openapi: 3.1.0
+info:
+  title: Simple Kanban
+  version: 1.0.0
+  description: >
+    This is a purely client-side application with no HTTP API.
+    All data is stored in the browser's localStorage.
+    There are no server endpoints to document.
+paths: {}
